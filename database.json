@@ -1,0 +1,74 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "age": 20,
+      "email": "alice.johnson@example.com",
+      "major": "Computer Science"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "age": 22,
+      "email": "bob.smith@example.com",
+      "major": "Mathematics"
+    },
+    {
+      "id": 3,
+      "name": "Charlie Lee",
+      "age": 21,
+      "email": "charlie.lee@example.com",
+      "major": "Biology"
+    },
+    {
+      "id": 4,
+      "name": "Diana Patel",
+      "age": 23,
+      "email": "diana.patel@example.com",
+      "major": "Economics"
+    },
+    {
+      "id": 5,
+      "name": "Ethan Wang",
+      "age": 20,
+      "email": "ethan.wang@example.com",
+      "major": "Physics"
+    },
+    {
+      "id": 6,
+      "name": "Fiona Garcia",
+      "age": 22,
+      "email": "fiona.garcia@example.com",
+      "major": "Chemistry"
+    },
+    {
+      "id": 7,
+      "name": "George Kim",
+      "age": 24,
+      "email": "george.kim@example.com",
+      "major": "Political Science"
+    },
+    {
+      "id": 8,
+      "name": "Hannah Nguyen",
+      "age": 21,
+      "email": "hannah.nguyen@example.com",
+      "major": "Engineering"
+    },
+    {
+      "id": 9,
+      "name": "Isaac Brown",
+      "age": 23,
+      "email": "isaac.brown@example.com",
+      "major": "Philosophy"
+    },
+    {
+      "id": 10,
+      "name": "Julia Martinez",
+      "age": 20,
+      "email": "julia.martinez@example.com",
+      "major": "Art History"
+    }
+  ]
+}
